@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF=8">
+	<title>Website homepage</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="wrapper">
+            <div class="logo">
+                <img src="logo.jpg" alt="">
+            </div>
+            <ul class="nav-area">
+                <li><a href="home.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="service.html">SERVICES</a></li>
+                <li><a href="login.html">LOGIN</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </div>
+        <div class="welcome-text">
+        	<h1>Welcome to the world bank</h1>
+        	<a href="contact.html">Contact us</a>
+    </header>
+</body>
+</html>            
