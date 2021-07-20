@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+</head>
+<body id="bg">
+	<h1>ABOUT US</h1>
+	<p> WORLD Bank is a high quality,customer centric and service driven Bank.Since inception in 2004,WORLD BANK has grown into a "Full Service Commercial Bank" providing a complete range of products,services and technology driven digital offerings,catering to cooperate,MSME & retail customers.WORLD BANK operates its Investment banking, Merchant banking & Brokerage businesses through WORLD SECURITIES and its Mutual Fund business through WORLD Asset Management (India) Limited, both wholly owned subsidiaries of the Bank. Headquartered in Mumbai, it has a pan-India presence across all 28 states and 9 Union Territories in India including an IBU at GIFT City, and a Representative Office in Dubai.The Bank's consolidated total assets stood at Rs. 14.76 trillion at September 2020.WORLD Bank currently has a network of 5288 branches and 15158 ATMs across India. </p>
+	<h2>MISSIONS</h2>
+    <p>We will consistently add value to all our stakeholders by enhancing the sustainability of the organisation and emerge as India’s most convenient Bank with financial metrics amongst the best in the industry.</p>
+	<h2>KEY FINANCIALS:</h2>
+    <h2>GROWTH IN BALANCE SHEET:11.6%</h2>
+    <h2>NET INTEREST MARGIN STABLE:2.8%</h2>
+    <h2>GROWTH IN DEPOSITS:5.9%</h2>
+    <h2>CASA RATIO:30.2%</h2>
+    <p>THANK YOU AND HOPING FOR YOUR CONSTANT SUPPORT.</p>
+	<style>
+		p{
+			text-decoration: bold;
+			font-family: Cursive;
+			font-size: 20px;
+			float: left;
+			color: 
+		}
+		#bg{
+			background:url("about.jpg");
+			height: 100vh;
+			-webkit-background-size:cover;
+			background-size:cover;
+			background-position: center center;
+			position: relative;
+			}
+			h1{
+				color:green;
+				text-decoration: underline;
+			}
+			h2{
+				color:green;
+				text-decoration: underline;
+			}
+	</style>
+</body>
+</html>
