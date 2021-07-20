@@ -1,0 +1,59 @@
+</tr>
+<tr>
+<td>6</td>
+<td>Trishita Sen</td>
+<td>Asansol</td>
+<td>456984321</td>
+<td>trishitasen@gmail.com</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Naveena Gupta</td>
+<td>Park Street,Kolkata</td>
+<td>456984321</td>
+<td>navgupta@gmail.com</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Sunidhi Das</td>
+<td>S stree,Siliguri</td>
+<td>456984321</td>
+<td>sundas@gmail.com</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Rahul Sen</td>
+<td>54 street,Siliguri</td>
+<td>456984321</td>
+<td>rahulsen@gmail.com</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Abhishek Dey</td>
+<td>R2 street,Kolkata</td>
+<td>452345321</td>
+<td>dey3456@gmail.com</td>
+</tr>
+</table>
+<style>
+body{
+margin:0;
+padding:0;
+font-family: Bold;
+background: url(home.jpg) no-repeat;
+background-size: cover;
+}
+table,th,td{
+width:800px;
+margin:auto;
+font-size: 30px;
+padding: 20px;
+text-align: center;
+color:#fff;
+border:2px solid #fff;
+border-collapse:collapse;
+}
+</style>
+
+</body>
+</html>
