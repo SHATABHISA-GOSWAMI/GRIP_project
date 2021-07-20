@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Service</title>
+</head>
+<body id="bg">
+	<h1>SERVICES</h1>
+    <p>1.ADVANCING OF LOANS-Advance your loan and generate interest from them as profit.</p>
+    <p>2.OVERDRAFT-Overdraft facilities allows to withdraw more than your deposits.</p>
+    <p>3.DISCOUNTING OF BILLS OF EXCHANGE.</p>
+    <p>4.CHEQUE PAYMENT-Our bank provides cheque pads to the account holders.Account holders can draw cheque upon the bank to pay money.</p>
+    <p>5.FOREIGN CURRENCY EXCHANGE-As the requirement of <br>customers, our banks exchange foreign currencies with local currencies, which is essential to settle down the dues in the international trade.</p>
+    <p>6.CONSULTANCY-Our bank hires financial,legal and market experts who provide advice to customers regarding investment,income tax etc.</p>
+    <p>7.BANK GUARANTEE
+    <p>8.CREDIT CARDS,ATMs AND DEBIT CARDS-24 hour availability, Elimination of labor cost, Convenience of location.</p>
+    <p>9.ONLINE BANKING</p>
+    <p>10.MOBILE BANKING</p>
+    <style>
+    	#bg{
+    		background:url("service.jfif");
+    		height:100vh;
+    		-webkit-background-size:cover;
+    		background-size: cover;
+    		background-position: center center;
+    		position: relative;
+    	}
+    	p{
+    		font-family: cursive;
+    		color: white;
+    		font-size:20px;
+    	}
+    	h1{
+    		color:white;
+    		text-decoration: underline;
+    	}
+    	</style>
+    </body>
+   
+    </html>
+    	
